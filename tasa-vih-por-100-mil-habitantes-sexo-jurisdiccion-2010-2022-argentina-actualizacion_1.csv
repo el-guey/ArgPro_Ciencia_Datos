@@ -1,4 +1,4 @@
-id_sexo	sexo	id_jurisdiccion	jurisdiccion	anio	jurisdiccion_tasa_vih
+id_sexo,sexo,id_jurisdiccion,jurisdiccion,anio,jurisdiccion_tasa_vih
 3	ambos_sexos	200	ARG	2010	17.6
 3	ambos_sexos	200	ARG	2011	17.4
 3	ambos_sexos	200	ARG	2012	17.3
